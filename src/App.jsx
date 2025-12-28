@@ -501,7 +501,14 @@ const App = () => {
         <div className="container">
           <div className="row">
             <div className="col-lg-4 mb-4">
-              <h4 className="fw-bold text-primary mb-3">SMC INOVEXA</h4>
+              <img 
+        src="./WhatsApp Image 2025-12-27 at 12.51.58 PM.jpeg" 
+        alt="SMC Inovexa Logo"
+        width="40"
+        height="40"
+        className="me-2"
+      />      <span style={{ letterSpacing: '1px' }}>SMC INOVEXA</span>
+    </a>
               <p className="small opacity-50">Leading the way in IT consulting and high-performance software development. Helping businesses thrive in a digital-first world.</p>
             </div>
             <div className="col-lg-4 mb-4 text-lg-center">
